@@ -14,6 +14,7 @@
   "redemptionInfo": {
     "id": "fake-emp-code",
     "redemptionCode": "fake-emp-code",
-    "provider": "hsbc-employer-fake"
+    "provider": "hsbc-employer-fake",
+    "test": "test"
   }
 }
