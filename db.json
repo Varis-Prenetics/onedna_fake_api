@@ -3,5 +3,5 @@
     "id": "fake-code-test",
     "redemptionCode": "fake-code-test",
     "provider": "hsbc-employer-api"
-  },
+  }
 }
