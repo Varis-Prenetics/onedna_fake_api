@@ -1,6 +1,6 @@
 ## Try it
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+[https://my-json-server.typicode.com/Varis-Prenetics/onedna_fake_api](https://my-json-server.typicode.com/Varis-Prenetics/onedna_fake_api)
 
 ## Use your own data
 
