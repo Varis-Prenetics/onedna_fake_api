@@ -18,5 +18,36 @@
       "provider": "hsbc-employer-fake",
       "test": "test2oeoe"
     }
+  },
+  "orderInfo": {
+    "orderId": "testOrderId",
+    "orderDate": "today",
+    "orderStatus": "received",
+    "redemption": {
+      "redemptionCode": "fake-emp-code",
+      "provider": "hsbc-employer"
+    },
+    "items": [
+      {
+        "productId": "onedna-hsbc-employee",
+        "quantity": 3
+      }
+    ],
+    "shipment": {
+      "firstName": "Alexander",
+      "lastName": "Maharaja",
+      "address": "33 King road hong kong"
+    },
+    "paymentTransaction": {
+      "paymentId": "stripe",
+      "transactionId": "123456789",
+      "amount": 3,
+      "currency": "hkd"
+    },
+    "communication": {
+      "email": "varis@prenetics.com",
+      "phoneNumer": "+8521111111",
+      "lang": "en-US"
+    }
   }
 }
