@@ -49,7 +49,7 @@
       "phoneNumer": "+8521111111",
       "lang": "en-US"
     }
-  }
+  },
   "payment": {
     "paymentId": "stripe",
     "paymentKey": "testPaymentKey"
