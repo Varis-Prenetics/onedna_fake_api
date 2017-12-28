@@ -52,6 +52,6 @@
   }
   "payment": {
     "paymentId": "stripe",
-    "paymentKey": "testStripeKey"
+    "paymentKey": "testPaymentKey"
   }
 }
