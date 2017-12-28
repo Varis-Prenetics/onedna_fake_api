@@ -50,4 +50,8 @@
       "lang": "en-US"
     }
   }
+  "payment": {
+    "paymentId": "stripe",
+    "paymentKey": "testStripeKey"
+  }
 }
