@@ -5,7 +5,14 @@
       "redemptionCode": "fake-emp-code",
       "provider": "hsbc-employer-fake",
       "test": "test2oeoe"
-    }
+    },
+    "products": [
+      {
+        "productId": "onedna-hsbc-employee",
+        "amount": 0,
+        "type": "percentage"
+      }
+    ]
   },
   "orderInfo": {
     "orderId": "testOrderId",
